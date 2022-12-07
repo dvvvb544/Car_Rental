@@ -1,0 +1,81 @@
+<mj-section
+    mj-class="bg_blue"
+    padding="20px 0"
+>
+    <mj-column padding="0 20px 15px">
+        <mj-text
+            mj-class="white"
+            font-size="18px"
+            font-weight="700"
+            line-height="40px"
+        >
+            Social media
+        </mj-text>
+        <mj-text
+            mj-class="gray"
+            font-size="12px"
+            line-height="18px"
+        >
+            Stay up-to-date with current activities and future events by following us on your favorite social media channels.
+        </mj-text>
+        <mj-social 
+                   align="left"
+                   padding-top="12px">
+            <mj-social-element 
+                               name="facebook"
+                               padding="0 20px 0 0" 
+                               icon-size="23px"
+                               href="#">
+            </mj-social-element>
+            <mj-social-element 
+                               name="twitter"
+                               padding="0 20px 0 0" 
+                               icon-size="23px"
+                               href="#">
+            </mj-social-element>
+            <mj-social-element 
+                               name="google"
+                               padding="0 20px 0 0" 
+                               icon-size="23px"
+                               href="#">
+            </mj-social-element>
+            <mj-social-element 
+                               name="instagram"
+                               padding="0 20px 0 0" 
+                               icon-size="23px"
+                               href="#">
+            </mj-social-element>
+        </mj-social>
+    </mj-column>
+
+    <mj-column padding="0 20px">
+        <mj-text
+            mj-class="white"
+            font-size="18px"
+            font-weight="700"
+            line-height="40px"
+        >
+            Where to find us
+        </mj-text>
+        <mj-text
+            mj-class="gray"
+            font-size="12px"
+            line-height="18px"
+        >
+            Car Rental <br /> Prishtina 10000, Kosova
+        </mj-text>
+        <mj-text
+            mj-class="gray"
+            font-size="12px"
+            padding-top="10px"
+            line-height="18px"
+        >
+            Changed your mind? <a href="#">Unsubscribe</a>
+        </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section>
+    <mj-column>
+        <mj-spacer height="40px" />
+    </mj-column>
+</mj-section>

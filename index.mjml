@@ -1,0 +1,28 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      
+      <mj-class name="center" align="center" />
+      <mj-class name="fs14" font-size="14px" />
+      <mj-class name="black_0" color="#000000" />
+      <mj-class name="black_1" color="#101112" />
+      <mj-class name="blue" color="#0056f1" />
+      <mj-class name="bg_blue" background-color="#0056f1" />
+      <mj-class name="gray" color="#C0C0C0" />
+      <mj-class name="white" color="#FFFFFF" />
+      
+      <mj-font name="Helvetica" href="https://fonts.cdnfonts.com/css/helvetica-neue-9" />
+      <mj-all font-family="Helvetica, Arial" padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body width="650px" background-color="#dfeaf1">
+    
+    <mj-include path="./_header.mjml" />
+    <mj-include path="./_why_choose.mjml" />
+    <mj-include path="./_cars.mjml" />
+    <mj-include path="./_phone.mjml" />
+    <mj-include path="./_call.mjml" />
+    <mj-include path="./_footer.mjml" />
+    
+  </mj-body>
+</mjml>

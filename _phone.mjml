@@ -1,0 +1,42 @@
+<mj-section 
+  mj-class="bg_blue"
+  padding="0 20px"
+>
+	<mj-column vertical-align="middle">
+  	<mj-spacer height="50px" />
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/CarRentalBlueMain.png" 
+      alt="logo image"
+      align="left"
+      padding="10px 0"
+      width="80px" />
+    <mj-text
+      mj-class="white"
+      padding="10px 0"
+      font-size="30px"
+      font-weight="700"
+      line-height="40px"
+    > Why us? </mj-text>
+    <mj-text
+      mj-class="white fs14"
+      line-height="20px"
+    >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</mj-text>
+    <mj-spacer height="50px" />
+  </mj-column>
+  
+  <mj-column vertical-align="middle" padding-top="20px">
+    <mj-image 
+      src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/CallUsIcon.png" 
+      alt="Phone icon"
+      width="90px" />
+    <mj-text
+      mj-class="white center"
+      padding="10px 0 30px"
+      font-size="20px"
+      font-weight="700"
+      line-height="30px"
+    >
+      +001 001 001
+    </mj-text>
+  </mj-column>
+</mj-section>

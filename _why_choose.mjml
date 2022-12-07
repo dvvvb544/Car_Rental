@@ -1,0 +1,49 @@
+<mj-wrapper background-color="#FFFFFF">
+  <mj-section padding="50px 0 5px">
+    <mj-column>
+      <mj-text
+               mj-class="black_0 center"
+               font-size="30px"
+               font-weight="700"
+               line-height="40px"
+               > Why choose CarRental? </mj-text>
+    </mj-column>
+  </mj-section>
+  <mj-section padding="30px 0 40px">
+    <mj-column padding="0 20px 10px">
+      <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/FastBookingIcom.png" 
+                alt="icon" 
+                width="50px" />
+      <mj-text mj-class="center" font-size="16px" font-weight="700" padding="10px 0"> Fast Booking </mj-text>
+      <mj-text 
+                mj-class="center black_1 fs14"
+                line-height="20px"
+      > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm. </mj-text>
+    </mj-column>
+    
+    <mj-column padding="0 20px 10px">
+      <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/PULocationIcon.png" 
+                alt="icon"
+                width="50px" />
+      <mj-text mj-class="center" font-size="16px" font-weight="700" padding="10px 0"> Pickup Location </mj-text>
+      <mj-text 
+                mj-class="center black_1 fs14"
+                line-height="20px"
+      > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm. </mj-text>
+    </mj-column>
+    
+    <mj-column padding="0 20px 10px">
+      <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/FCustomersIcon.png" 
+                alt="icon"
+                width="50px" />
+      <mj-text mj-class="center" font-size="16px" font-weight="700" padding="10px 0"> For Customers </mj-text>
+      <mj-text 
+                mj-class="center black_1 fs14"
+                line-height="20px"
+      > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm. </mj-text>
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

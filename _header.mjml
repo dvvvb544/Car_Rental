@@ -1,0 +1,63 @@
+<mj-wrapper background-color="#dcf1ff">
+  <mj-section padding="30px 20px">
+    <mj-column vertical-align="middle">
+      <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/CarRentalBlueMain.png" 
+                width="90px" 
+                padding="10px 0" 
+                alt="logo CarRental" />
+    </mj-column>
+    <mj-column vertical-align="middle">
+      <mj-navbar>
+        <mj-navbar-link 
+                        href="#" 
+                        mj-class="black_1 fs14" 
+                        padding="5px" 
+                        text-transform="capitalize"
+        > Home </mj-navbar-link>
+        <mj-navbar-link 
+                        href="#" 
+                        mj-class="black_1 fs14" 
+                        padding="5px" 
+                        text-transform="capitalize"
+        > Rent A Car </mj-navbar-link>
+        <mj-navbar-link 
+                        href="#" 
+                        mj-class="black_1 fs14" 
+                        padding="5px" 
+                        text-transform="capitalize"
+        > Contact Us </mj-navbar-link>
+      </mj-navbar>
+    </mj-column>
+  </mj-section>
+  
+  <mj-section padding="20px 20px 0">
+  	<mj-column>
+    	<mj-text 
+               mj-class="black_0" 
+               font-size="42px" 
+               font-weight="700" 
+               line-height="56px"
+      > Drive of Your Life </mj-text>
+      <mj-text 
+               mj-class="black_1" 
+               font-size="16px" 
+               line-height="24px" 
+      > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. </mj-text>
+    	<mj-button 
+                 mj-class="bg_blue white fs14"
+                 padding-top="20px" 
+                 inner-padding="13px 20px"
+                 align="left" 
+                 border-radius="30px" 
+      > Reserve Now </mj-button>
+    
+    </mj-column>
+  </mj-section>
+  
+  <mj-section>
+  	<mj-column>
+    	<mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/Banner1.png" alt="Dodge car image" />
+    </mj-column>
+  </mj-section>
+</mj-wrapper>

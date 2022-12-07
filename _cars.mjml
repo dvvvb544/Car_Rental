@@ -1,0 +1,148 @@
+<mj-section padding="30px 0 5px">
+    <mj-column>
+        <mj-text
+            mj-class="blue center"
+            font-size="50px"
+            font-weight="700"
+            line-height="75px"
+        > 20% OFF </mj-text>
+        <mj-text
+            mj-class="black_0 center"
+            font-size="26px"
+            font-weight="700"
+            line-height="38px"
+        > for Labor Day </mj-text>
+        <mj-divider 
+            padding="30px 10px"
+            border-style="dashed"
+            border-width="1px"
+            border-color="#0056f1" />
+    </mj-column>
+</mj-section>
+
+
+<mj-section padding="5px 0">
+    <mj-column padding="0 30px">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/MecedesSclass.png" 
+            alt="Mercedes S-class photo" />
+        <mj-text
+            mj-class="black_0"
+            font-size="16px"
+            font-weight="700"
+            line-height="35px"
+        >
+            Mercedes Benz - S Class
+        </mj-text>
+        <mj-text
+            mj-class="black_1 fs14"
+            line-height="21px"
+        >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm.
+        </mj-text>
+        <mj-text
+            mj-class="blue fs14"
+            font-weight="700"
+            line-height="35px"
+        >
+            Call Now
+        </mj-text>
+    </mj-column>
+    <mj-column padding="0 30px">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/AudiRS8.png" 
+            alt="Audi RS8 photo" />
+        <mj-text
+            mj-class="black_0"
+            font-size="16px"
+            font-weight="700"
+            line-height="35px"
+        >
+            Audi RS8
+        </mj-text>
+        <mj-text
+            mj-class="black_1 fs14"
+            line-height="21px"
+        >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm.
+        </mj-text>
+        <mj-text
+            mj-class="blue fs14"
+            font-weight="700"
+            line-height="35px"
+        >
+            Call Now
+        </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section padding="5px 0">
+    <mj-column padding="0 30px">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/BenzGLE.png" 
+            alt="Mercedes GLE photo" />
+        <mj-text
+            mj-class="black_0"
+            font-size="16px"
+            font-weight="700"
+            line-height="35px"
+        >
+            Mercedes Benz - GLE
+        </mj-text>
+        <mj-text
+            mj-class="black_1 fs14"
+            line-height="21px"
+        >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm.
+        </mj-text>
+        <mj-text
+            mj-class="blue fs14"
+            font-weight="700"
+            line-height="35px"
+        >
+            Call Now
+        </mj-text>
+    </mj-column>
+    <mj-column padding="0 30px">
+        <mj-image 
+            src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7371/BMW8.png" 
+            alt="BMW 8 photo" />
+        <mj-text
+            mj-class="black_0"
+            font-size="16px"
+            font-weight="700"
+            line-height="35px"
+        >
+            BMW 8
+        </mj-text>
+        <mj-text
+            mj-class="black_1 fs14"
+            line-height="21px"
+        >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm.
+        </mj-text>
+        <mj-text
+            mj-class="blue fs14"
+            font-weight="700"
+            line-height="35px"
+        >
+            Call Now
+        </mj-text>
+    </mj-column>
+</mj-section>
+
+
+<mj-section padding="5px 0 20px">
+    <mj-column>
+        <mj-divider 
+            padding="30px 10px"
+            border-style="dashed"
+            border-width="1px"
+            border-color="#0056f1" />
+        <mj-button
+            mj-class="bg_blue white fs14"
+            padding-top="5px" 
+            inner-padding="13px 20px"
+            border-radius="30px" 
+        > Explore More </mj-button>
+    </mj-column>
+</mj-section>
